@@ -2,7 +2,7 @@
 A Linux virtual machine needs to be configurated to support the Item Catalog website. This is a set of instructions on how to set up a Linux server to host a simple web application built with Flask.
 
 The instructions are written specifically for hosting a Food Menu Catalog App (github link to this application is https://github.com/amanjot1kaur/catalog) 
-on an Amazon Lightsail instance. You can visit http://13.59.147.36 for the website deployed.# Linux Server Configuration
+on an Amazon Lightsail instance. You can visit http://13.59.147.36 for the website deployed.
 A Linux virtual machine needs to be configurated to support the Item Catalog website. This is a set of instructions on how to set up a Linux server to host a simple web application built with Flask.
 
 The instructions are written specifically for hosting a Food Menu Catalog App (github link to this application is https://github.com/amanjot1kaur/catalog) 
