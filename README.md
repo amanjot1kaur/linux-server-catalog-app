@@ -4,6 +4,7 @@ A Linux virtual machine needs to be configurated to support the Item Catalog app
 ## 1. Server specific details
 The IP address is 13.59.147.36
 The SSH port used is `2200`.
+`grader` user key name: `id_rsa`
 The URL to the hosted webpage is: http://13.59.147.36/ 
 
 ## 2. Software to install during the configuration
